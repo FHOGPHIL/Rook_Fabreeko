@@ -10,3 +10,10 @@ Start with the lower frame:
 Next Move on to the Bed Support
 
 ![IMG_0944](https://github.com/FHOGPHIL/Rook_Fabreeko/assets/69829255/640278dc-e704-4322-8d72-15dd508da210)
+
+
+Now the upper frame
+
+![IMG_0945](https://github.com/FHOGPHIL/Rook_Fabreeko/assets/69829255/503c44c5-9dc0-46db-a3d9-452808ec70ff)
+
+
