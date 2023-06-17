@@ -28,4 +28,5 @@ Next up is attaching the feet to the legs. An M5 nut is captured in the leg and 
 
 Attach all fout feet to the lower frame as shown. 
 
+![IMG_0948](https://github.com/FHOGPHIL/Rook_Fabreeko/assets/69829255/866ceb6a-32cd-4668-9044-e205617f64af)
 
