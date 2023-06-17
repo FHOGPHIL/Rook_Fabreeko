@@ -101,3 +101,8 @@ The belt path is a standard CoreXY belt path. Study the two pics carefully. One 
 
 
 ![IMG_0970](https://github.com/FHOGPHIL/Rook_Fabreeko/assets/69829255/16272b4e-b2f0-4010-b70d-91ee5ad0601a)
+
+The first step will use the full length of the belt. With the teeth facing front, insert one end of the belt through the back of the mounting plate throught the top, right side yellow hole of the blue part in the picture. Fold the belt back over itself so about 25mm overlaps, teeth to teeth. Use a wire tie to temporarily secure it.
+![IMG_0969](https://github.com/FHOGPHIL/Rook_Fabreeko/assets/69829255/47f429df-d14d-4f19-bb7a-6af6817d3ee5)
+
+
