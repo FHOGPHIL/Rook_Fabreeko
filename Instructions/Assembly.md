@@ -85,4 +85,19 @@ Add the X axis to the shuttles.
 This shows a proper bear stack assembly for a double bearing stack.  Note the two shims in the middle. Always do shim-bearing-bearing-shim on a single. a double is two singles so two shims in the middle. 
 ![IMG_0963](https://github.com/FHOGPHIL/Rook_Fabreeko/assets/69829255/660140b9-a612-4d0e-a748-9cb25ba517f0)
 
+Instal 4 simgle bearing stacks in the X axis. 
 
+![IMG_0964](https://github.com/FHOGPHIL/Rook_Fabreeko/assets/69829255/0dee16c5-1f56-4300-8029-b6c6ffe880d6)
+
+![IMG_0965](https://github.com/FHOGPHIL/Rook_Fabreeko/assets/69829255/f8d443ba-3c0e-4006-85e1-59f026c364cd)
+
+...and a double bearing stack on each idler. 
+![IMG_0967](https://github.com/FHOGPHIL/Rook_Fabreeko/assets/69829255/76be85c5-bbfb-4f15-8b57-97c811e06880)
+
+
+The belt path is a standard CoreXY belt path. Study the two pics carefully. One is a cut away and the other is a normal view.  Being methodical here will pay off in the long run. 
+
+![IMG_0971](https://github.com/FHOGPHIL/Rook_Fabreeko/assets/69829255/539ab719-bbdf-4ab1-9f65-b173fa277d98)
+
+
+![IMG_0970](https://github.com/FHOGPHIL/Rook_Fabreeko/assets/69829255/16272b4e-b2f0-4010-b70d-91ee5ad0601a)
