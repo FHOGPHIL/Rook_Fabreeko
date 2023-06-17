@@ -82,7 +82,7 @@ Add the X axis to the shuttles.
 
 ![IMG_0960](https://github.com/FHOGPHIL/Rook_Fabreeko/assets/69829255/38104176-597e-4258-bc6e-3dc1e3980fb6)
 
-Attach the motors to the motor mounts, adjusted all the way towards the front of the printer.  Attach the GT2 pulleys as shown. Pay attention to orientation and height. 
+Attach the motors to the motor mounts, adjusted all the way towards the front of the printer.  Wires go towards the center. Attach the GT2 pulleys as shown. Pay attention to orientation and height. 
 ![IMG_0966](https://github.com/FHOGPHIL/Rook_Fabreeko/assets/69829255/0c402682-fca8-4f86-9c32-c2f2ac970fda)
 
 
@@ -117,6 +117,14 @@ Carefully review your work while looking at the belt path in the picture. Make s
 Cut the belt aboit 25mm past the securing point. (So you have an extra 25mm). 
 
 Now completely remove the belt.  
+
+Lay the piece you just cut on top of the remaining belt and align the ends. The goal is to cut another piece the exact same length, down to the number of teeth.  Doing this right will make tuning easier later on.
+
+Insert each belt through the back of the tool head mount (blue part) from the back on the same side, one top and one bottom. Fold each one back on itself, teeth to teeth, just enough to secure them together. (About 25mm). Do this identical for each one, down to the tooth. Secure each one to itself with two wire ties.
+
+Loosely attach the tool head moint to the X rail.  Now reroute each belt according the the photos. Push the ends through the back of the tool head mount (might be easier to remove the mount from the tail for a minute) and pull tight. Ensure rhe same amount of teeth are exposed on each belt. When pulling, pull across the rail and not towards the front as that may break the part. Secure the belts back on to themselves and the mount to the rail.
+
+
 
 
 
