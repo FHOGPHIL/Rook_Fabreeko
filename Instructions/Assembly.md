@@ -82,6 +82,10 @@ Add the X axis to the shuttles.
 
 ![IMG_0960](https://github.com/FHOGPHIL/Rook_Fabreeko/assets/69829255/38104176-597e-4258-bc6e-3dc1e3980fb6)
 
+Attach the motors to the motor mounts, adjusted all the way towards the front of the printer.  Attach the GT2 pulleys as shown. Pay attention to orientation and height. 
+![IMG_0966](https://github.com/FHOGPHIL/Rook_Fabreeko/assets/69829255/0c402682-fca8-4f86-9c32-c2f2ac970fda)
+
+
 This shows a proper bear stack assembly for a double bearing stack.  Note the two shims in the middle. Always do shim-bearing-bearing-shim on a single. a double is two singles so two shims in the middle. 
 ![IMG_0963](https://github.com/FHOGPHIL/Rook_Fabreeko/assets/69829255/660140b9-a612-4d0e-a748-9cb25ba517f0)
 
