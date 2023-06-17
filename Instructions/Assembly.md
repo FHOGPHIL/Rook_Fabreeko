@@ -32,3 +32,9 @@ Attach all fout feet to the lower frame as shown.
 
 ![IMG_0948](https://github.com/FHOGPHIL/Rook_Fabreeko/assets/69829255/866ceb6a-32cd-4668-9044-e205617f64af)
 
+
+Stand it up, insert the 4 8mm rods into place. 
+
+![IMG_0953](https://github.com/FHOGPHIL/Rook_Fabreeko/assets/69829255/88638a28-65c9-48f6-9c29-1095ff2096da)
+
+
