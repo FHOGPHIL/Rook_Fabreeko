@@ -48,3 +48,9 @@ Grab the lower panel and the inserts. This should be a nice snug fit that can be
 Drop down over the rods. Pay atte tion to orientation here. 
 
 ![IMG_0954](https://github.com/FHOGPHIL/Rook_Fabreeko/assets/69829255/a2d6c7e6-98ad-4457-8248-84f978aa8e5b)
+
+
+Insert the Bearings in to the bed support and center them. They are extra long on purpose to provide more support. Attach the Z emdstop in place. 
+
+![IMG_0956](https://github.com/FHOGPHIL/Rook_Fabreeko/assets/69829255/da90a08e-81c1-499b-bff8-ad5152d4b642)
+
