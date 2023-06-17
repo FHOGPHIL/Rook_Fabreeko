@@ -106,3 +106,7 @@ The first step will use the full length of the belt. With the teeth facing front
 ![IMG_0969](https://github.com/FHOGPHIL/Rook_Fabreeko/assets/69829255/47f429df-d14d-4f19-bb7a-6af6817d3ee5)
 
 
+Using tne picture above, route the other end through the top belt path all the way around and back through the top left hole from behind. Pull snug and temporarily secure the belt back onto itself. 
+
+
+
