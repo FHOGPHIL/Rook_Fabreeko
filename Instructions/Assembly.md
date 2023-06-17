@@ -37,4 +37,14 @@ Stand it up, insert the 4 8mm rods into place.
 
 ![IMG_0953](https://github.com/FHOGPHIL/Rook_Fabreeko/assets/69829255/88638a28-65c9-48f6-9c29-1095ff2096da)
 
+This is your firat "square and level check". On a known flat surface, make sure the feet don't wobble. flip it to stand upside down and check for wobbles.  this makes sure all the rods are insterted evenly. 
 
+Grab the lower panel and the inserts. This should be a nice snug fit that can be tapped into place. Assemble all pieces. 
+
+
+![IMG_0955](https://github.com/FHOGPHIL/Rook_Fabreeko/assets/69829255/f4653d7a-c725-4ef4-98ea-43ab73e9f011)
+
+
+Drop down over the rods. Pay atte tion to orientation here. 
+
+![IMG_0954](https://github.com/FHOGPHIL/Rook_Fabreeko/assets/69829255/a2d6c7e6-98ad-4457-8248-84f978aa8e5b)
