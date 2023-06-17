@@ -98,6 +98,11 @@ Instal 4 simgle bearing stacks in the X axis.
 ...and a double bearing stack on each idler. 
 ![IMG_0967](https://github.com/FHOGPHIL/Rook_Fabreeko/assets/69829255/76be85c5-bbfb-4f15-8b57-97c811e06880)
 
+....and a single stack for the Z belt
+
+![IMG_0998](https://github.com/FHOGPHIL/Rook_Fabreeko/assets/69829255/9c9256b9-bec2-402a-9d33-c7f08331c0af)
+
+
 
 The belt path is a standard CoreXY belt path. Study the two pics carefully. One is a cut away and the other is a normal view.  Being methodical here will pay off in the long run. 
 
