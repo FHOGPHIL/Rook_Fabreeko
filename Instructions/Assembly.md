@@ -59,16 +59,30 @@ Lower the bed support onto the rear 8mm rods as shown. Note that the Z emdstop f
 ![IMG_0957](https://github.com/FHOGPHIL/Rook_Fabreeko/assets/69829255/20f56f12-3ac1-468a-9fe7-f37a9dc6e8f8)
 
 
-Attach Y rails to the top frame. 
+Attach Y rails to the top frame. Leave the shuttle keepers in place for now. 
 
 ![IMG_0951](https://github.com/FHOGPHIL/Rook_Fabreeko/assets/69829255/ccc64633-b06c-4294-935b-3a0cd30c6e39)
 
 
-Place the top frame o to to the 8mm rods. Make sire it bottoms out on the rods. 
+Place the top frame on too of the 8mm rods. Make sure it bottoms out on the rods. 
 
 ![IMG_0958](https://github.com/FHOGPHIL/Rook_Fabreeko/assets/69829255/878a4ee0-0a65-4f05-817c-89a194e99c83)
 
 
 Place motor mounts and front idlers on top frame. 
 ![IMG_0959](https://github.com/FHOGPHIL/Rook_Fabreeko/assets/69829255/d99a324f-bc6f-404f-9a17-fb48b7716511)
+
+
+Attach the linear rails to the X axis. Don't let the shuttle fall of the ends! 
+
+![IMG_0961](https://github.com/FHOGPHIL/Rook_Fabreeko/assets/69829255/a166939f-8148-4cfd-b01c-1cde7aa3a3bb)
+
+
+Add the X axis to the shuttles. 
+
+![IMG_0960](https://github.com/FHOGPHIL/Rook_Fabreeko/assets/69829255/38104176-597e-4258-bc6e-3dc1e3980fb6)
+
+This shows a proper bear stack assembly for a double bearing stack.  Note the two shims in the middle. Always do shim-bearing-bearing-shim on a single. a double is two singles so two shims in the middle. 
+![IMG_0963](https://github.com/FHOGPHIL/Rook_Fabreeko/assets/69829255/660140b9-a612-4d0e-a748-9cb25ba517f0)
+
 
