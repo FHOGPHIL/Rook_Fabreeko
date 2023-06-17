@@ -108,5 +108,11 @@ The first step will use the full length of the belt. With the teeth facing front
 
 Using tne picture above, route the other end through the top belt path all the way around and back through the top left hole from behind. Pull snug and temporarily secure the belt back onto itself. 
 
+Carefully review your work while looking at the belt path in the picture. Make sure the belt is riding properly on each beating. 
+
+Cut the belt aboit 25mm past the securing point. (So you have an extra 25mm). 
+
+Now completely remove the belt.  
+
 
 
