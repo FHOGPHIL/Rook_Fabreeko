@@ -54,3 +54,21 @@ Insert the Bearings in to the bed support and center them. They are extra long o
 
 ![IMG_0956](https://github.com/FHOGPHIL/Rook_Fabreeko/assets/69829255/da90a08e-81c1-499b-bff8-ad5152d4b642)
 
+Lower the bed support onto the rear 8mm rods as shown. Note that the Z emdstop face down. 
+
+![IMG_0957](https://github.com/FHOGPHIL/Rook_Fabreeko/assets/69829255/20f56f12-3ac1-468a-9fe7-f37a9dc6e8f8)
+
+
+Attach Y rails to the top frame. 
+
+![IMG_0951](https://github.com/FHOGPHIL/Rook_Fabreeko/assets/69829255/ccc64633-b06c-4294-935b-3a0cd30c6e39)
+
+
+Place the top frame o to to the 8mm rods. Make sire it bottoms out on the rods. 
+
+![IMG_0958](https://github.com/FHOGPHIL/Rook_Fabreeko/assets/69829255/878a4ee0-0a65-4f05-817c-89a194e99c83)
+
+
+Place motor mounts and front idlers on top frame. 
+![IMG_0959](https://github.com/FHOGPHIL/Rook_Fabreeko/assets/69829255/d99a324f-bc6f-404f-9a17-fb48b7716511)
+
