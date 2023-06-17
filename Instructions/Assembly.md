@@ -17,3 +17,6 @@ Now the upper frame
 ![IMG_0945](https://github.com/FHOGPHIL/Rook_Fabreeko/assets/69829255/503c44c5-9dc0-46db-a3d9-452808ec70ff)
 
 
+...and the tool head parts
+
+![IMG_0946](https://github.com/FHOGPHIL/Rook_Fabreeko/assets/69829255/a4ef54b3-33e8-4f30-85fe-decae257661b)
