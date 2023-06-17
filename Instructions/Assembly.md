@@ -20,3 +20,12 @@ Now the upper frame
 ...and the tool head parts
 
 ![IMG_0946](https://github.com/FHOGPHIL/Rook_Fabreeko/assets/69829255/a4ef54b3-33e8-4f30-85fe-decae257661b)
+
+Next up is attaching the feet to the legs. An M5 nut is captured in the leg and an M5 SHCS attaches the foot.
+
+![IMG_0947](https://github.com/FHOGPHIL/Rook_Fabreeko/assets/69829255/01f12731-5023-4249-940e-ea3da25681cb)
+
+
+Attach all fout feet to the lower frame as shown. 
+![IMG_0948]
+(https://github.com/FHOGPHIL/Rook_Fabreeko/assets/69829255/01255069-9ee2-40c5-bae4-c4a2fd417427)
