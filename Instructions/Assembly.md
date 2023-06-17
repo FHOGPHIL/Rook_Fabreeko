@@ -1,6 +1,8 @@
 Time to get started! 
 
 first step is to get all of the heat sets placed.  If you are not familiar with this, Nero3D has a couple of good YouTube videos on it. 
+https://youtube.com/shorts/cyof7fYFcuQ?feature=share
+
 
 Start with the lower frame:
 
